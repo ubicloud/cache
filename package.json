@@ -13,9 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/cache.git"
+    "url": "git+https://github.com/ubicloud/cache.git"
   },
   "keywords": [
+    "ubicloud",
     "actions",
     "node",
     "cache"
@@ -23,7 +24,7 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/cache": "^3.2.3",
+    "@actions/cache": "npm:@ubicloud/cache@3.2.403",
     "@actions/core": "^1.10.0",
     "@actions/exec": "^1.1.1",
     "@actions/io": "^1.1.2"
